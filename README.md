@@ -56,3 +56,7 @@ The **Gradient Boosting Classifier** achieved the highest accuracy of **94.5%**.
 1. Clone the repository:
    ```bash
    git clone https:........
+
+
+## Muhammad Usman Akram
+### musman00109@gmail.com 
